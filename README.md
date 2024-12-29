@@ -92,6 +92,8 @@ pip install --upgrade tf-keras
 
 - 🔄 **Customization**: Easily adjust chunk size and search strategies.
 - ⚡ **Fast and Efficient**: Built with state-of-the-art similarity search algorithms.
+<br>
+This repository makes use of Local Assistant Examples as a foundational resource for implementing localized AI assistant functionalities: https://github.com/vioshyvo/mrpt/
 
 ---
 
